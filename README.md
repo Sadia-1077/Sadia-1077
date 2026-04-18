@@ -1,35 +1,95 @@
-💫 Sadia | CSE Engineer & AI Explorer
-B.Sc. in Computer Science & Engineering • Daffodil International University
+# 🌌✨ 𝙎𝘼𝘿𝙄𝘼 𝙎𝙃𝙊𝘽𝙉𝙊𝙈 ✨🌌
 
-“Merging technical precision with creative vision to build the future of AI.”
+### 🧠⚡ *CSE Engineer • AI Explorer • Digital Creator*
 
-🛠️ Technical Arsenal
-💻 Languages: Python • Java • C • MySQL • HTML5
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=8A2BE2&center=true&vCenter=true&width=600&lines=AI+Researcher+%F0%9F%A4%96;Creative+Technologist+%F0%9F%8E%A8;Future+Engineer+%F0%9F%9A%80" />
+</p>
 
-🐧 Environment: Ubuntu • Linux • Bash • System Admin
+---
 
-🤖 Core Focus: AI Research • Digital Creation • Modern AI Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Research-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Python%20%7C%20Java%20%7C%20C-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System-Linux%20%7C%20Ubuntu-2ECC71?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
 
-🎨 Creative & Research Identity
-✨ Digital Creator: Transforming complex code into engaging digital experiences and visual stories.
+---
 
-🔍 AI Researcher: Passionate about investigating new AI frameworks and staying updated with the latest tech breakthroughs.
+## 🧬 💫 **𝑨𝒃𝒐𝒖𝒕 𝑴𝒆**
 
-🛠️ Tech Early-Adopter: Constantly experimenting with and mastering newly released AI tools.
+> 🌠 *“Merging technical precision with creative vision to build the future of AI.”*
 
-🛡️ Professional Excellence
-🤝 Leadership: Natural ability to guide teams and manage technical workflows effectively.
+🎓 **B.Sc. in Computer Science & Engineering**
+🏫 *Daffodil International University*
 
-⏰ Punctuality: A firm believer in the power of discipline and meeting every deadline.
+💡 Passionate about:
 
-⌛ Time Management: Expert at balancing rigorous CSE academics with creative digital projects.
+* 🤖 AI Research & Innovation
+* 🎨 Digital Creation & Storytelling
+* ⚙️ Automation & Smart Systems
 
-📈 Current Status
-🔭 Exploring: Advanced AI research papers and automation workflows.
+---
 
-🌱 Learning: Mastering next-gen AI tools for digital content optimization.
+## 🛠️ ⚡ **𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 (3D Style)**
 
-💬 Collaboration: Open to research-based projects and innovative engineering ideas.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,linux,bash&theme=dark"/>
+</p>
 
-📫 Let's Connect
-  [https://www.linkedin.com/in/sadia-shobnom-7132412a1/] 🔗  •  [Email-sadiashobnom171@gmail.com] 📧
+---
+
+## 🎨 🌌 **𝑪𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝑰𝒅𝒆𝒏𝒕𝒊𝒕𝒚**
+
+✨ **Digital Creator**
+→ Turning complex code into *visually stunning experiences*
+
+🔍 **AI Researcher**
+→ Exploring next-gen frameworks & intelligent systems
+
+🚀 **Tech Explorer**
+→ Early adopter of emerging AI tools
+
+---
+
+## 🛡️ ⚔️ **𝑷𝒓𝒐 𝑻𝒓𝒂𝒊𝒕𝒔**
+
+🧠 **Leadership** → Leading with clarity & vision
+⏰ **Discipline** → Always on time, always focused
+⚡ **Productivity** → Balancing tech + creativity
+
+---
+
+## 📊 🚀 **𝑮𝒊𝒕𝑯𝒖𝒃 𝑽𝒊𝒃𝒆𝒔**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 💎 **Connect With Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sadia-shobnom-7132412a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sadia%20Shobnom-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:sadiashobnom171@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 🌟 🔮 **Vision**
+
+> 💡 *Code. Create. Innovate. Repeat.*
+> 🚀 *Designing intelligent systems for tomorrow.*
+
+---
+
+<p align="center">
+  ✨ ⭐ *Star my repositories if you like my work!* ⭐ ✨
+</p>
+
